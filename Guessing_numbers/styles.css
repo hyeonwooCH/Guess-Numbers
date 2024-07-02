@@ -54,7 +54,7 @@ button:hover {
     z-index: 1000;
     overflow: hidden;
 }
- 
+  
 .firework { /* 각 폭죽 스타일 정의  */
     position: absolute;
     width: 10px;

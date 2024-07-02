@@ -16,7 +16,7 @@ function checkGuess() {
         alert("1에서 100 사이의 숫자를 입력하세요.");
         return;
     }
-
+  
     attempts++; // 시도 횟수 증가
 
     // 사용자 입력값과 정답 비교
